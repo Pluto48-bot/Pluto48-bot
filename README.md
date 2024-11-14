@@ -1,6 +1,9 @@
-## Hi there 👋
-
-<!--
+## Hi there, I`m Andrey Emelyanov, or Pluto48-bot 👋
+I`m eternal student 👀
+- 🔭 I’m currently working at small business
+- ✌🏻 Love to study and learn something new, data analytics uncluding
+- ⚡ Fun fact: love to work with numbers, and numbeers loves me
+ <!--
 **Pluto48-bot/Pluto48-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
